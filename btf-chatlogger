@@ -3,7 +3,6 @@
 --]]
 
 _G.webhook = "webhook" --WEBHOOK BURA
-
 _G.rank_info = false --[[ true or false **NOT WORKING FOR NOW** ]]
 _G.launguage = TR --[[ TR or ENG **NOT WORKING FOR NOW** ]]
 --[[ GAME : https://www.roblox.com/games/4913708314 ]]
