@@ -1,3 +1,7 @@
+--[[
+- Made By Wxer#9124
+--]]
+
 _G.webhook = "webhook" --WEBHOOK BURA
 
 _G.rank_info = false --[[ true or false **NOT WORKING FOR NOW** ]]
