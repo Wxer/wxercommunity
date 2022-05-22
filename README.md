@@ -1,2 +1,1 @@
-# sa kardes ben wxer
-# Discord: Wxer#9124
+# Discord: KizilWxer#0001
